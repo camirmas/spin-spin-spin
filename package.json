@@ -1,7 +1,8 @@
 {
-  "name": "loading",
+  "name": "loaders",
   "version": "1.0.0",
-  "description": "React Loading Spinners",
+  "description": "Configurable loader components using React",
+  "author": "Cameron Irmas (https://github.com/camirmas)",
   "main": "lib/index.js",
   "license": "MIT",
   "scripts": {
