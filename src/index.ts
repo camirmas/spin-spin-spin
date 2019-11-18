@@ -7,5 +7,6 @@ import Grid from './components/Grid';
 import Heart from './components/Heart';
 import Hourglass from './components/Hourglass';
 import Ring from './components/Ring';
+import Ripple from './components/Ripple';
 
-export { DualRing, Circle, Default, Ellipsis, Facebook, Grid, Heart, Hourglass, Ring };
+export { DualRing, Circle, Default, Ellipsis, Facebook, Grid, Heart, Hourglass, Ring, Ripple };

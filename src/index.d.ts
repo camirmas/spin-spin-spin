@@ -8,4 +8,5 @@ declare module 'loading' {
   export function Heart(): JSX.Element;
   export function Hourglass(): JSX.Element;
   export function Ring(): JSX.Element;
+  export function Ripple(): JSX.Element;
 }
