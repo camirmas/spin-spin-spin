@@ -1,0 +1,22 @@
+{
+  "name": "loading",
+  "version": "1.0.0",
+  "description": "React Loading Spinners",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "rm -rf ./lib && tsc",
+    "lint-fix": "prettier --write 'src/**/*.ts*'"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^4.4.0",
+    "prettier": "1.19.1",
+    "source-map-loader": "^0.2.4",
+    "styled-components": "^4.4.1",
+    "typescript": "^3.7.2",
+    "@types/react": "^16.9.11"
+  },
+  "peerDependencies": {
+    "react": "^16.12.0"
+  }
+}
