@@ -9,5 +9,6 @@ import Hourglass from './components/Hourglass';
 import Ring from './components/Ring';
 import Ripple from './components/Ripple';
 import Roller from './components/Roller';
+import Spinner from './components/Spinner';
 
-export { DualRing, Circle, Default, Ellipsis, Facebook, Grid, Heart, Hourglass, Ring, Ripple, Roller };
+export { DualRing, Circle, Default, Ellipsis, Facebook, Grid, Heart, Hourglass, Ring, Ripple, Roller, Spinner };

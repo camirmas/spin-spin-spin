@@ -10,4 +10,5 @@ declare module 'loading' {
   export function Ring(): JSX.Element;
   export function Ripple(): JSX.Element;
   export function Roller(): JSX.Element;
+  export function Spinner(): JSX.Element;
 }
