@@ -1,3 +1,3 @@
-import Hello from './components/Hello';
+import DualRing from './components/DualRing';
 
-export { Hello };
+export { DualRing };
