@@ -9,4 +9,5 @@ declare module 'loading' {
   export function Hourglass(): JSX.Element;
   export function Ring(): JSX.Element;
   export function Ripple(): JSX.Element;
+  export function Roller(): JSX.Element;
 }

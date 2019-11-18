@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "license": "MIT",
   "scripts": {
-    "build": "rm -rf ./lib && tsc",
+    "build": "rm -rf ./lib && yarn lint-fix && tsc",
     "lint-fix": "prettier --write 'src/**/*.ts*'"
   },
   "devDependencies": {
