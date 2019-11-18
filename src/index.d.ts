@@ -5,4 +5,5 @@ declare module 'loading' {
   export function Ellipsis(): JSX.Element;
   export function Facebook(): JSX.Element;
   export function Grid(): JSX.Element;
+  export function Heart(): JSX.Element;
 }
