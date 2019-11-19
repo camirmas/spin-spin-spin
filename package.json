@@ -1,6 +1,6 @@
 {
-  "name": "loaders",
-  "version": "1.0.0",
+  "name": "spin-spin-spin",
+  "version": "1.0.2",
   "description": "Configurable loader components using React",
   "author": "Cameron Irmas (https://github.com/camirmas)",
   "main": "lib/index.js",

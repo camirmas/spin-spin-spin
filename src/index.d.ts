@@ -1,4 +1,4 @@
-declare module 'loading' {
+declare module 'spin-spin-spin' {
   export function DualRing(): JSX.Element;
   export function Circle(): JSX.Element;
   export function Default(): JSX.Element;
