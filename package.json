@@ -1,21 +1,24 @@
 {
   "name": "spin-spin-spin",
-  "version": "1.0.2",
+  "version": "1.0.10",
   "description": "Configurable loader components using React",
   "author": "Cameron Irmas (https://github.com/camirmas)",
   "main": "lib/index.js",
+  "types": "index.d.ts",
   "license": "MIT",
   "scripts": {
     "build": "rm -rf ./lib && yarn lint-fix && tsc",
     "lint-fix": "prettier --write 'src/**/*.ts*'"
   },
   "devDependencies": {
+    "@types/react": "^16.9.11",
     "@types/styled-components": "^4.4.0",
     "prettier": "1.19.1",
     "source-map-loader": "^0.2.4",
-    "styled-components": "^4.4.1",
-    "typescript": "^3.7.2",
-    "@types/react": "^16.9.11"
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "styled-components": "^4.4.1"
   },
   "peerDependencies": {
     "react": "^16.12.0"
